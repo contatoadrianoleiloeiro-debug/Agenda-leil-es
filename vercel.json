@@ -2,6 +2,5 @@
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
   "installCommand": "npm install --legacy-peer-deps",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "engines": { "node": "20.x" }
+  "outputDirectory": "dist"
 }
