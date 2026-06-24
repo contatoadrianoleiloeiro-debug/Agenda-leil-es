@@ -1,0 +1,4 @@
+.flyer-scroll-container::-webkit-scrollbar { width: 8px; }
+.flyer-scroll-container::-webkit-scrollbar-track { background: #f0f0f0; border-radius: 4px; }
+.flyer-scroll-container::-webkit-scrollbar-thumb { background: #C8860B; border-radius: 4px; }
+.flyer-scroll-container::-webkit-scrollbar-thumb:hover { background: #D4960E; }
